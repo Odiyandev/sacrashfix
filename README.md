@@ -9,20 +9,10 @@
 
 **BitScream Crasher AntiCheat Plugin** is a robust anti-cheat solution designed to detect and block malicious players attempting to crash or exploit the server. This plugin was re-edited and fine-tuned by **Kerala.mp** to offer enhanced stability and protection for your gaming server.
 
-### Features
-
-- 🛡️ **Real-Time Detection**: Identifies and blocks crash attempts or suspicious behavior in real-time.
-- ⚙️ **Customizable Settings**: Configure specific actions for different types of detected cheats or exploits.
-- 🚫 **Auto Ban/Kick**: Automatically kicks or bans players based on configurable rules.
-- 📊 **Detailed Logs**: Provides detailed logging for every action and event triggered by the anti-cheat.
-- 🔄 **Regular Updates**: Continuous improvements and updates to keep your server secure.
-
 ### Requirements
+- nothing
 
-- **Server**: Any game server supporting plugins.
-- **Version**: Compatible with [[click](https://github.com/Odiyandev/sacrashfix)].
-- **Dependencies**: [nothing].
-
+  
 ### Installation
 
 1. Download the latest version of the plugin from the [Releases](#) section.
