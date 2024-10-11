@@ -1,5 +1,5 @@
 
-# BitScream Crasher AntiCheat Plugin
+# BitStream Crasher AntiCheat Plugin
 
 ### Re-edited by **Kerala.mp**
 
