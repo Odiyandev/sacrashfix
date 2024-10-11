@@ -7,7 +7,7 @@
 
 ## Overview
 
-**BitScream Crasher AntiCheat Plugin** is a robust anti-cheat solution designed to detect and block malicious players attempting to crash or exploit the server. This plugin was re-edited and fine-tuned by **Kerala.mp** to offer enhanced stability and protection for your gaming server.
+**BitStream Crasher AntiCheat Plugin** is a robust anti-cheat solution designed to detect and block malicious players attempting to crash or exploit the server. This plugin was re-edited and fine-tuned by **Kerala.mp** to offer enhanced stability and protection for your gaming server.
 
 ### Requirements
 - nothing
